@@ -22,6 +22,7 @@ h1 span {
 
 .dictionary {
     display: flex;
+    font-weight: bold;
     flex-wrap: wrap;
     justify-content: space-between;
     margin: 4rem auto;
@@ -33,9 +34,9 @@ h1 span {
     max-width: 20rem;
     margin-bottom: 3rem;
     padding: 2rem;
-    border-radius: 3px;
+    border-radius: 100px;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
-    background-color: #fff;
+    background-color: rgb(221, 185, 241);
     transition: all 100ms ease-in-out;
 }
 
